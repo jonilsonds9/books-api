@@ -1,6 +1,6 @@
-# Simple Books API
+# Books API
 
-Este projeto é uma simples API de Livros para atividade da disciplina de Implementação e Disponibilização de API da pós graduação em dispositivos móveis da Unijuazeiro.
+Este projeto é uma simples API de Livros.
 
 
 ## Para executar
@@ -26,7 +26,3 @@ npm run start-dev
 ```bash
 swagger-autogen
 ```
-
-- Documentação online:
-
-https://simple-books-api-express.herokuapp.com/doc/
