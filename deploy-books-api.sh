@@ -37,7 +37,7 @@ function remote_scripts() {
     npm install
 
     log "[remote] Iniciando aplicação em produção"
-    pm2 start
+    pm2 start ecosystem.config.cjs
 
     log "[remote] Salvando configurações do pm2 para quando ele reiniciar"
     pm2 save --force
