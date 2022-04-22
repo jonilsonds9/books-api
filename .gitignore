@@ -2,4 +2,4 @@
 .env
 !docs/.gitkeep
 
-grafana.pem
+*.pem
